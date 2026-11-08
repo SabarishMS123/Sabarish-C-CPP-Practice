@@ -277,10 +277,25 @@ git commit -m "build: prune compiled binary artifacts from version control"
 
 ---
 
+## 🌐 Connect & Location
+
+<div align="center">
+
+**📍 Salem, Tamil Nadu, India**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sabarishdev.netlify.app-0D9488?style=for-the-badge&logo=netlify&logoColor=white)](https://sabarishdev.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-SabarishMS123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabarishMS123)
+
+</div>
+
+---
+
 <div align="center">
 
 **Developed by Sabarish M S**
 
 Computer Science & Engineering • Systems Programming • Algorithmic Design
+
+<sub>Built with C99 & C++17 • Salem, TN, India</sub>
 
 </div>
