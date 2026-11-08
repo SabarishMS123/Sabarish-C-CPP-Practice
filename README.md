@@ -73,17 +73,17 @@ gantt
     dateFormat X
     axisFormat %s
 
-    section FCFS (Arrival Order)
-    P1 (Burst: 4) :0, 4
-    P2 (Burst: 3) :4, 7
-    P3 (Burst: 2) :7, 9
+    section FCFS - Arrival Order
+    P1 burst 4 :0, 4
+    P2 burst 3 :4, 7
+    P3 burst 2 :7, 9
 
-    section Round Robin (Quantum = 2)
-    P1 [Q1]       :0, 2
-    P2 [Q1]       :2, 4
-    P3 [Q1]       :4, 6
-    P1 [Q2]       :6, 8
-    P2 [Q2]       :8, 9
+    section Round Robin - Quantum 2
+    P1 Q1 :0, 2
+    P2 Q1 :2, 4
+    P3 Q1 :4, 6
+    P1 Q2 :6, 8
+    P2 Q2 :8, 9
 ```
 
 1. `fcfs.c` / `fcfsme.c`: First-Come, First-Served non-preemptive queue execution.
